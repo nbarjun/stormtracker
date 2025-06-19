@@ -32,6 +32,6 @@ jobs:
         cd nbarjun.github.io
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
-        git add nbarjun.github.io/assets/files/latest_storms.html
+        git add nbarjun.github.io/files/latest_storms.html
         git commit -m "Updated latest storms"
         git push
