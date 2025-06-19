@@ -25,7 +25,7 @@ jobs:
 
     - name: Copy file
       run: |
-        cp stormtracker/latest_storms.html nbarjun.github.io/assets/files/latest_storms.html
+        cp stormtracker/latest_storms.html nbarjun.github.io/files/latest_storms.html
 
     - name: Commit and push to destination
       run: |
