@@ -1,5 +1,5 @@
 # .github/workflows/update_stormtracker.yaml
-name: Copy the latest storm tracker map to my website
+name: Update Storm Tracker
 
 on:
   workflow_dispatch:  # Manually triggered
