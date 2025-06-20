@@ -15,7 +15,11 @@ jobs:
         repository: nbarjun/stormtracker
         token: ${{ secrets.STORM_TOKEN }}
         path: stormtracker
-
+        
+    - name: Run Storm Tracker detection algorithm
+      run: |
+        source run_stormtracker.sh
+        
     - name: Checkout destination repository
       uses: actions/checkout@v3
       with:
