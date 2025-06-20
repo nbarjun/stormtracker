@@ -1,3 +1,8 @@
-Successfully Downloaded Latest IFS Data
-Successfully Extracted Storms
-Successfully Made the Stormtracker Map
+Successfully Downloaded Latest IFS Data in 6.805379152297974 seconds
+Finished smoothing in 1.1464483737945557 seconds
+Finished shape extraction in 9.974613189697266 seconds
+Finished Filtering in 15.392372131347656 seconds
+Finished Tracking in 2.5526795387268066 seconds
+Finished Tracking in 2.289885997772217 seconds
+Successfully Extracted Storms in 34.80382966995239 seconds
+Successfully Made the Stormtracker Map in 70.23892569541931 seconds
