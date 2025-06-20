@@ -18,6 +18,7 @@ jobs:
         
     - name: Run Storm Tracker detection algorithm
       run: |
+        cd stormtracker
         source run_stormtracker.sh
         
     - name: Checkout destination repository
